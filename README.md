@@ -92,10 +92,10 @@
 <summary><b>Claude Code</b></summary>
 
 ```bash
-git clone https://github.com/Raymond-Weng/cs-hint.git ~/.claude/skills/cs-hint
+git clone https://github.com/Raymond-Weng/cs-hint.git ~/.claude/skills/hint
 ```
 
-只想在單一專案啟用的話，改成 clone 到專案底下的 `.claude/skills/cs-hint`。
+只想在單一專案啟用的話，改成 clone 到專案底下的 `.claude/skills/hint`。
 
 </details>
 
